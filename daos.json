@@ -9,21 +9,13 @@
     "chainId": 418
   },
   {
-    "icon": "https://png.pngtree.com/png-vector/20191129/ourmid/pngtree-office-checklist-icon-business-checklist-survey-test-icon-png-image_2047566.jpg",
-    "name": "AriDAO1",
-    "address": "0x2A3F215Fb3568C6E36CAb8Ae4A2fDabF1B1F03A7",
-    "address_vote_token": "0xE235A4ef3fcbeE6D37DFb41ba0714d6ef69C1dad",
-    "tag": "arione",
-    "block": "1771158",
-    "chainId": 418
-  },
-  {
     "icon": "https://www.argentumonline.com.ar/_nuxt/img/ao20_logo_sm.f6122ef.png",
-    "name": "Argentum Online",
-    "address": "0x9d791657c55C9B0e0Acf57E060dc9bCc42D92C72",
-    "address_vote_token": "0x8f117c3aED8f64744f1F062259670C53569Bb372",
+    "name": "Argentum DAO TEST",
+    "address": "0x90d2DdF0fC31F1141b48e2cB0b3DAEF8bBeAde77",
+    "address_timelock": "0x65d6eFee69e49caDa954f62E959664b52A72dBBD",
+    "address_vote_token": "0xcFf0f3D5c133AF09DAd16E3930F3f70452A486b1",
     "tag": "argentum",
-    "block": "1710475",
+    "block": "1978354",
     "chainId": 418
   }
 ]
