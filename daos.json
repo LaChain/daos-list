@@ -7,5 +7,15 @@
     "tag": "aritwo",
     "block": "1771709",
     "chainId": 418
+  },
+  {
+    "icon": "https://www.argentumonline.com.ar/_nuxt/img/ao20_logo_sm.f6122ef.png",
+    "name": "Argentum DAO TEST",
+    "address": "0x7aA2ad31Ea5c376b7AFcD053DBa2a4098A4ebC85",
+    "address_timelock": "0x4aCdf8F0B01efD940D505C11a0982ec1EaB69e50",
+    "address_vote_token": "0x555d60EbD15c974014a0C7F1995ae59dC9F18565",
+    "tag": "argentum",
+    "block": "1978180",
+    "chainId": 418
   }
 ]
