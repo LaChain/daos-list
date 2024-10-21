@@ -11,11 +11,11 @@
   {
     "icon": "https://www.argentumonline.com.ar/_nuxt/img/ao20_logo_sm.f6122ef.png",
     "name": "Argentum DAO TEST",
-    "address": "0x05C722B4659561e2d48BFf1785B56F8aF5f3b1BA",
-    "address_timelock": "0x3Aaf4ec8F1854E803764B86D6aD71aE716AB6c0E",
-    "address_vote_token": "0xE69eB429869C33E4EfA6e14341A45D0898c4D746",
+    "address": "0x90d2DdF0fC31F1141b48e2cB0b3DAEF8bBeAde77",
+    "address_timelock": "0x65d6eFee69e49caDa954f62E959664b52A72dBBD",
+    "address_vote_token": "0xcFf0f3D5c133AF09DAd16E3930F3f70452A486b1",
     "tag": "argentum",
-    "block": "1978310",
+    "block": "1978354",
     "chainId": 418
   }
 ]
