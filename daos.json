@@ -2,10 +2,11 @@
   {
     "icon": "https://png.pngtree.com/png-vector/20191129/ourmid/pngtree-office-checklist-icon-business-checklist-survey-test-icon-png-image_2047566.jpg",
     "name": "AriDAO2",
-    "address": "0xb8282E683f0Efe6d5Fc93Ce64fb672cE11FF8b7D",
-    "address_vote_token": "0xed8223AFC9FBAab2e77692c6d4972F55F71cC190",
+    "address": "0x94307409c38563A1B4B38c70C64b54463009162d",
+    "address_timelock": "0x5811c7D67b2f9982347524f19d578c811c3050b8",
+    "address_vote_token": "0x0F2700eF6901d3182E2b63D2207EE5448848CcF6",
     "tag": "aritwo",
-    "block": "1771709",
+    "block": "2098385",
     "chainId": 418
   },
   {
